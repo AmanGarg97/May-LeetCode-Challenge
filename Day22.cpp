@@ -41,6 +41,7 @@ Note that 'A' and 'a' are treated as two different characters.
 // Solution
 
 #include <algorithm>
+
 class Solution {
 public:
     string frequencySort(string s) {
